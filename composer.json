@@ -1,0 +1,11 @@
+{
+    "name": "xav/test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ashkan90",
+            "email": "emirhan.1ataman@gmail.com"
+        }
+    ],
+    "require": {}
+}
